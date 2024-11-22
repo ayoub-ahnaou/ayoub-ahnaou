@@ -5,5 +5,38 @@ Welcome to my GitHub profile! I'm passionate about programming, solving problems
 Feel free to check out my [repositories](https://github.com/ayoub-ahnaou?tab=repositories) for more!
 
 <br/>
+
+# What I use
+
+- ### I code with ->
+
+  ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=%23E34F26&labelColor=%23ff000000&logo=HTML5)
+  ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=%231572B6&labelColor=%23ff000000&logo=Css3&logoColor=%231572B6)
+  ![BootSTrap](https://img.shields.io/static/v1?label=%20&message=BootStrap&color=%237952B3&labelColor=%23ff000000&logo=BootStrap)
+  ![Tailwind](https://img.shields.io/static/v1?label=%20&message=Tailwind&color=%2306B6D4&labelColor=%23ff000000&logo=tailwindcss)
+  ![SCSS](https://img.shields.io/static/v1?label=%20&message=SASS&color=%23CC6699&labelColor=%23ff000000&logo=sass)
+  ![javaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=%23F7DF1E&labelColor=%23ff000000&logo=javaScript)
+  ![jquery](https://img.shields.io/static/v1?label=%20&message=JQuery&color=%230769AD&logoColor=%230769AD&labelColor=%23ff000000&logo=jquery)
+  ![bash](https://img.shields.io/static/v1?label=%20&message=Bash&color=%234EAA25&labelColor=%23ff000000&logo=gnubash)
+  ![c](https://img.shields.io/static/v1?label=%20&message=Clang&color=%23adadad&labelColor=%23ff000000&logo=c&)
+  ![java](https://img.shields.io/static/v1?label=%20&message=Java&color=%23FF7800&labelColor=%23ff000000&logo=coffeescript&logoColor=%23FF7800)
+  ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
+  ![laravel](https://img.shields.io/static/v1?label=%20&message=Laravel&color=%23FF2D20&labelColor=%23ff000000&logo=laravel&logoColor=%23FF2D20)
+  ![MySQL](https://img.shields.io/static/v1?label=%20&message=MySQL&color=%234479A1&labelColor=%23ff000000&logo=mysql)
+  ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
+  ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
+  ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
+
+- ### I work with ->
+  ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
+  ![github](https://img.shields.io/static/v1?label=%20&message=GitHub&color=%23181717&labelColor=%23ff000000&logo=github&logoColor=%23000000)
+  ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
+  ![npm](https://img.shields.io/static/v1?label=%20&message=NPM&color=%23CB3837&labelColor=%23ff000000&logo=npm&logoColor=%23CB3837)
+  ![postman](https://img.shields.io/static/v1?label=%20&message=Postman&color=%23FF6C37&labelColor=%23ff000000&logo=postman&logoColor=%23FF6C37)
+  ![vscode](https://img.shields.io/static/v1?label=%20&message=VScode&color=%23007ACC&labelColor=%23ff000000&logo=visualstudiocode&logoColor=%23007ACC)
+  ![figma](https://img.shields.io/static/v1?label=%20&message=Figma&color=%23fff&labelColor=%23ff000000&logo=figma&logoColor=%23fff)
+  ![photoshop](https://img.shields.io/static/v1?label=%20&message=Adobe%20Photoshop&color=%2331A8FF&labelColor=%23ff000000&logo=adobephotoshop&logoColor=%2331A8FF)
+
+<br/>
 <h1 align=""><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=80d1fa&center=true&vCenter=true&random=false&width=300&height=100&lines=Thank+You+._." alt="Typing SVG" /></h1>
 <hr/>
