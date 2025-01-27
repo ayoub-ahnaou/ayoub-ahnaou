@@ -40,3 +40,4 @@ Feel free to check out my [repositories](https://github.com/ayoub-ahnaou?tab=rep
 <br/>
 <h1 align=""><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=80d1fa&center=true&vCenter=true&random=false&width=300&height=100&lines=Thank+You+._." alt="Typing SVG" /></h1>
 <hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-ahnaou&label=Profile%20views&color=0e112F&style=flat" alt="ayoub-ahnaou" /> </p>
