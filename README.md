@@ -1,5 +1,6 @@
 # Hi there, I'm ayoub ahnaou! 👋
-
+ [![committers.top badge](https://user-badge.committers.top/morocco_public/ayoub-ahnaou.svg)](https://user-badge.committers.top/morocco_public/ayoub-ahnaou)
+ 
 Welcome to my GitHub profile! I'm passionate about programming, solving problems, and learning new technologies. I'm currently a student at YouCode school, SAFI.
 
 Feel free to check out my [repositories](https://github.com/ayoub-ahnaou?tab=repositories) for more!
