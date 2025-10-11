@@ -38,7 +38,5 @@ Feel free to check out my [repositories](https://github.com/ayoub-ahnaou?tab=rep
   ![figma](https://img.shields.io/static/v1?label=%20&message=Figma&color=%23fff&labelColor=%23ff000000&logo=figma&logoColor=%23fff)
   ![photoshop](https://img.shields.io/static/v1?label=%20&message=Adobe%20Photoshop&color=%2331A8FF&labelColor=%23ff000000&logo=adobephotoshop&logoColor=%2331A8FF)
 
-<br/>
-<h1 align=""><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=80d1fa&center=true&vCenter=true&random=false&width=300&height=100&lines=Thank+You+._." alt="Typing SVG" /></h1>
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-ahnaou&label=Profile%20views&color=0e112F&style=flat" alt="ayoub-ahnaou" /> </p>
