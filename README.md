@@ -27,6 +27,13 @@ Feel free to check out my [repositories](https://github.com/ayoub-ahnaou?tab=rep
   ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
   ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
   ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
+  ![Docker](https://img.shields.io/static/v1?label=%20&message=Docker&color=%232496ED&labelColor=%23ff000000&logo=docker)
+  ![JWT](https://img.shields.io/static/v1?label=%20&message=JWT&color=%23000000&labelColor=%23ff000000&logo=jsonwebtokens)
+  ![Spring Boot](https://img.shields.io/static/v1?label=%20&message=Spring%20Boot&color=%236DB33F&labelColor=%23ff000000&logo=springboot)
+  ![Spring Security](https://img.shields.io/static/v1?label=%20&message=Spring%20Security&color=%236DB33F&labelColor=%23ff000000&logo=springsecurity)
+  ![Maven](https://img.shields.io/static/v1?label=%20&message=Maven&color=%23C71A36&labelColor=%23ff000000&logo=apachemaven)
+  ![Angular](https://img.shields.io/static/v1?label=%20&message=Angular&color=%23DD0031&labelColor=%23ff000000&logo=angular)
+  ![TypeScript](https://img.shields.io/static/v1?label=%20&message=TypeScript&color=%233178C6&labelColor=%23ff000000&logo=typescript)
 
 - ### I work with ->
   ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
